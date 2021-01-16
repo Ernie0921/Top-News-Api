@@ -1,4 +1,4 @@
 # Top-News-Api
-This API was contrsucted using HTML,CSS, AJAX/AXIOS ,VUE.js
+This API was constructed using HTML,CSS,Javascript, AJAX/AXIOS ,VUE.js
 # Preview
 ![](./images/top-news.gif)
